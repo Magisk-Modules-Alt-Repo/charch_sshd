@@ -1,0 +1,6 @@
+id=charch_sshd
+name=ChArch SSHD
+version=v1.0
+versionCode=1
+author=tytydraco
+description=Initialize SSHD for the default ChArch rootfs instance.
