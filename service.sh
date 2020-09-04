@@ -7,7 +7,7 @@ do
        sleep 1
 done
 
-# Sleep an additional 20s to ensure init is finished
-sleep 20
+# Sleep an additional 2m to ensure init is finished
+sleep 120
 
 charch -k -c "/usr/bin/env /usr/sbin/sshd"
