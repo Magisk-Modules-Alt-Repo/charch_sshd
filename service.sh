@@ -10,4 +10,4 @@ done
 # Sleep an additional 2m to ensure init is finished
 sleep 120
 
-charch -k -c "/usr/bin/env /usr/sbin/sshd"
+charch -c "/usr/bin/env /usr/sbin/sshd"
